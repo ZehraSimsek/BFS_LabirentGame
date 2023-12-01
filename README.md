@@ -6,3 +6,4 @@ Here is the output of the generated maze.
 <img width="210" alt="b" src="https://github.com/ZehraSimsek/BFS_LabirentGame/assets/125045707/6b48c1e9-db68-4333-b4c7-ca2e3563919f">
 
 When the user presses the space bar, the shortest path to the finish will be found.
+<img width="210" alt="c" src="https://github.com/ZehraSimsek/BFS_LabirentGame/assets/125045707/18829bb5-88f6-4c05-b741-cebfce8c6234">
